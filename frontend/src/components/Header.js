@@ -21,14 +21,10 @@ const Header = () => {
       <Navbar bg='dark' variant='dark' expand='lg' collapseOnSelect>
         <Container>
           <LinkContainer to='/'>
-<<<<<<< HEAD
+
             <Navbar.Brand>ProShop4(Shop that matters)</Navbar.Brand>
             <Navbar.Brand>ProShop5(Shop that matters)</Navbar.Brand>
-=======
-            <Navbar.Brand>ProShop1(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop2(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop3(Shop that matters)</Navbar.Brand>
->>>>>>> 83d3af296cbeb030f426929095c1abde34340cc1
+
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
           <Navbar.Collapse id='basic-navbar-nav'>
