@@ -22,23 +22,7 @@ const Header = () => {
         <Container>
           <LinkContainer to='/'>
 
-            <Navbar.Brand>ProShop4(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop5(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop3(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop2(Shop that matters)</Navbar.Brand>
             <Navbar.Brand>ProShop1(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop10(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop11(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop12(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop14(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop15(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop16(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop17(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop18(Shop that matters)</Navbar.Brand>
-            <Navbar.Brand>ProShop19(Shop that matters)</Navbar.Brand>
-  <Navbar.Brand>ProShop20(Shop that matters)</Navbar.Brand>
-            
-            
 
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
