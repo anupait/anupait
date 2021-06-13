@@ -15,6 +15,10 @@ const Footer = () => {
           <Col className='text-center py-3'>Copyright13 &copy; ProShop1</Col>
            <Col className='text-center py-3'>Copyright14 &copy; ProShop2</Col>
           <Col className='text-center py-3'>Copyright15 &copy; ProShop1</Col>
+          <Col className='text-center py-3'>Copyright16 &copy; ProShop1</Col>
+          <Col className='text-center py-3'>Copyright17 &copy; ProShop1</Col>
+          <Col className='text-center py-3'>Copyright18 &copy; ProShop1</Col>
+          <Col className='text-center py-3'>Copyright19 &copy; ProShop1</Col>
           
         </Row>
       </Container>
