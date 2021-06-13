@@ -34,6 +34,8 @@ const Header = () => {
             <Navbar.Brand>ProShop15(Shop that matters)</Navbar.Brand>
             <Navbar.Brand>ProShop16(Shop that matters)</Navbar.Brand>
             <Navbar.Brand>ProShop17(Shop that matters)</Navbar.Brand>
+            <Navbar.Brand>ProShop18(Shop that matters)</Navbar.Brand>
+            <Navbar.Brand>ProShop19(Shop that matters)</Navbar.Brand>
             
 
           </LinkContainer>
