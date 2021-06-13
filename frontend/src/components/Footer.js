@@ -21,6 +21,7 @@ const Footer = () => {
           <Col className='text-center py-3'>Copyright19 &copy; ProShop1</Col>
           <Col className='text-center py-3'>Copyright20 &copy; ProShop1</Col>
           <Col className='text-center py-3'>Copyright21 &copy; ProShop1</Col>
+          <Col className='text-center py-3'>Copyright23 &copy; ProShop1</Col>
           
         </Row>
       </Container>
