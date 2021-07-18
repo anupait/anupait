@@ -28,6 +28,12 @@ const Header = () => {
             <Navbar.Brand>ProShop4(Shop that matters)</Navbar.Brand>
             <Navbar.Brand>ProShop5(Shop that matters)</Navbar.Brand>
 
+            <Navbar.Brand>ProShop11(Shop that matters)</Navbar.Brand>
+            <Navbar.Brand>ProShop12(Shop that matters)</Navbar.Brand>
+            <Navbar.Brand>ProShop13(Shop that matters)</Navbar.Brand>
+            <Navbar.Brand>ProShop14(Shop that matters)</Navbar.Brand>
+            <Navbar.Brand>ProShop15(Shop that matters)</Navbar.Brand>
+
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
           <Navbar.Collapse id='basic-navbar-nav'>
