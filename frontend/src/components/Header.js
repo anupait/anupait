@@ -23,7 +23,7 @@ const Header = () => {
           <LinkContainer to='/'>
 
             <Navbar.Brand>ProShop1(Shop that matters)</Navbar.Brand>
-            
+            <Navbar.Brand>ProShop2(Shop that matters)</Navbar.Brand>
 
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
